@@ -1,0 +1,21 @@
+{
+    "name": "depepisto-coderspoint-dark",
+    "displayName": "DePepisto CodersPoint Dark",
+    "description": "DePepisto CodersPoint Theme!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "DePepisto CodersPoint Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/DePepisto CodersPoint Dark-color-theme.json"
+            }
+        ]
+    }
+}
