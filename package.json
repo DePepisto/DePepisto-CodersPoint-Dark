@@ -1,37 +1,37 @@
 {
-    "name": "depepisto-coderspoint-dark",
-    "displayName": "DePepisto CodersPoint Dark",
-    "description": "DePepisto CodersPoint Theme!",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.54.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "DePepisto CodersPoint Dark",
-                "uiTheme": "vs-dark",
-                "path": "./themes/DePepisto-CodersPoint-Dark.json"
-            }
-        ]
-    },
-    "bugs": {
-        "url": "https://github.com/DePepisto/dp-vsc-theme/issues"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/DePepisto/dp-vsc-theme"
-    },
-    "icon": "icon.png",
-    "keywords": [
-        "dark theme",
-        "DePepisto",
-        "DePepisto CodersPoint",
-        "Sven Weimann",
-        "theme",
-        "dark color theme"
-    ]
+	"name": "depepisto-coderspoint-dark",
+	"displayName": "DePepisto CodersPoint Dark",
+	"description": "DePepisto CodersPoint Theme!",
+	"version": "1.0.1",
+	"engines": {
+		"vscode": "^1.54.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "DePepisto CodersPoint Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/DePepisto-CodersPoint-Dark.json"
+			}
+		]
+	},
+	"bugs": {
+		"url": "https://github.com/DePepisto/dp-vsc-theme/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/DePepisto/dp-vsc-theme"
+	},
+	"icon": "PepistoCoderPointIcon.svg",
+	"keywords": [
+		"dark theme",
+		"DePepisto",
+		"DePepisto CodersPoint",
+		"Sven Weimann",
+		"theme",
+		"dark color theme"
+	]
 }
