@@ -14,8 +14,24 @@
             {
                 "label": "DePepisto CodersPoint Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/DePepisto CodersPoint Dark-color-theme.json"
+                "path": "./themes/DePepisto-CodersPoint-Dark.json"
             }
         ]
-    }
+    },
+    "bugs": {
+        "url": "https://github.com/DePepisto/dp-vsc-theme/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DePepisto/dp-vsc-theme"
+    },
+    "icon": "icon.png",
+    "keywords": [
+        "dark theme",
+        "DePepisto",
+        "DePepisto CodersPoint",
+        "Sven Weimann",
+        "theme",
+        "dark color theme"
+    ]
 }
