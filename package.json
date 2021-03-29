@@ -3,6 +3,7 @@
 	"displayName": "DePepisto CodersPoint Dark",
 	"description": "DePepisto CodersPoint Theme!",
 	"version": "1.0.1",
+	"publisher": "DePepisto",
 	"engines": {
 		"vscode": "^1.54.0"
 	},
@@ -25,7 +26,7 @@
 		"type": "git",
 		"url": "https://github.com/DePepisto/dp-vsc-theme"
 	},
-	"icon": "PepistoCoderPointIcon.svg",
+	"icon": "theme_icon.png",
 	"keywords": [
 		"dark theme",
 		"DePepisto",
