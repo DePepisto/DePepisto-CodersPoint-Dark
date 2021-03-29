@@ -2,6 +2,8 @@
 
 Here is the VS Code theme from my today works. I like dark themes so it's dark :)
 
+Hier mein VS Code Theme was mich bei der täglichen Arbeit begleitet
+
 ## Screenshots
 
 ### HTML
