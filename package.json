@@ -2,7 +2,7 @@
 	"name": "depepisto-coderspoint-dark",
 	"displayName": "DePepisto CodersPoint Dark",
 	"description": "DePepisto CodersPoint Theme!",
-	"version": "1.0.2",
+	"version": "1.0.1",
 	"publisher": "DePepisto",
 	"engines": {
 		"vscode": "^1.54.0"
