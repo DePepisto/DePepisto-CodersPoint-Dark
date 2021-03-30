@@ -2,7 +2,7 @@
 	"name": "depepisto-coderspoint-dark",
 	"displayName": "DePepisto CodersPoint Dark",
 	"description": "DePepisto CodersPoint Theme!",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"publisher": "DePepisto",
 	"engines": {
 		"vscode": "^1.54.0"
@@ -10,6 +10,10 @@
 	"categories": [
 		"Themes"
 	],
+	"galleryBanner": {
+		"color": "#161A21",
+		"theme": "dark"
+	},
 	"contributes": {
 		"themes": [
 			{
@@ -18,6 +22,9 @@
 				"path": "./themes/DePepisto-CodersPoint-Dark.json"
 			}
 		]
+	},
+	"devDependencies": {
+		"vsce": "^1.87.0"
 	},
 	"bugs": {
 		"url": "https://github.com/DePepisto/dp-vsc-theme/issues"
