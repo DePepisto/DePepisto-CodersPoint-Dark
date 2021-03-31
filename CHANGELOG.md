@@ -1,9 +1,14 @@
-# Change Log
+## 1.0.3 (2021-03-31)
 
-All notable changes to the "depepisto-coderspoint-dark" extension will be documented in this file.
+- [Added] themeversion turquoise-light
+- [Added] changelog
+- [fix] New Icon
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## 1.0.2 (2021-03-30)
 
-## [Unreleased]
+- [fix] adjusted dropdown background colors
+- [fix] adjusted terminal ansi color for bright black
 
-- Initial release
+## 1.0.1 (2021-03-29)
+
+Initial release

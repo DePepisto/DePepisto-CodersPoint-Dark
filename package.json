@@ -1,8 +1,8 @@
 {
 	"name": "depepisto-coderspoint-dark",
 	"displayName": "DePepisto CodersPoint Dark",
-	"description": "DePepisto CodersPoint Theme!",
-	"version": "1.0.2",
+	"description": "Here is the VS Code theme from my today works. I like dark themes so it's dark :)",
+	"version": "1.0.3",
 	"publisher": "DePepisto",
 	"engines": {
 		"vscode": "^1.54.0"
@@ -17,9 +17,14 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "DePepisto CodersPoint Dark",
+				"label": "DePepisto CodersPoint Turquoise-light",
 				"uiTheme": "vs-dark",
-				"path": "./themes/DePepisto-CodersPoint-Dark.json"
+				"path": "./themes/DePepisto-CodersPoint-Turquoise-light.json"
+			},
+			{
+				"label": "DePepisto CodersPoint Turquoise",
+				"uiTheme": "vs-dark",
+				"path": "./themes/DePepisto-CodersPoint-Turquoise.json"
 			}
 		]
 	},
